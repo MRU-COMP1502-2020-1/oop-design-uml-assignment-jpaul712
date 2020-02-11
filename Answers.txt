@@ -1,0 +1,7 @@
+Q3. Prog2 is the better design because it uses the getter and setter method which runs through and 
+tells the user if it is equal to null or not and uses loose coupling betwen the classes which works
+ with the program. The first program is not ideal because it does not use the setter and getter 
+methods which also uses tight coupling.
+
+Q4. The code is too bunched up into one class. There are unnessasary elements in the code 
+that should be in another class instead. High cohesion is needed to improve the code.
